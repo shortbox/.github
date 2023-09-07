@@ -1,1 +1,1 @@
-Your CDN for your short scripts.
+Your CDN for your short projects.
